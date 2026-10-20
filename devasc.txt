@@ -1,0 +1,3 @@
+I am Building skills and on my way to passing the Cisco DEVASC or CCNA Automation exam!
+I am starting to understand Git!
+this paragraph was added to the devasc.txt file while in the feature branch
